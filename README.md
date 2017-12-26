@@ -38,7 +38,7 @@ This is a Excel template for creating your own spreadsheet to track your cryptoc
 I made this because Binance wasn't showing how much profit I was making in USD. 
 
 
-<h1>Donations
+<h1>Donations</h1>
 
 They are appreciated but not expected
 
