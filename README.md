@@ -47,5 +47,3 @@ BTC - 15b2Uxy8p6z2FeRYpzs91V9F4gcghNt3Ve
 ETH - 0xE3FBbD0038c5B655183208b0fc35CA180c5B6B43
 
 LTC - Li91Xr2Ph4BshsZ38z9v2UKbz8x68EtMBY
-
-XRB - xrb_1d3w9i5qz1kmqqpmydxhz5xyofrhg5u6dca1h3ue3hfcuwqhkxqdfokycm6a
